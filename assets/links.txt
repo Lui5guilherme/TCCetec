@@ -1,0 +1,21 @@
+https://boxicons.com/
+https://swiperjs.com/get-started
+
+CDN: https://cdn.jsdelivr.net/npm/swiper/
+
+GOOGLE FONTES: https://fonts.googleapis.com/
+
+FONTE DA AULA
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;1,100;1,200;1,300;1,400;1,500;1,600&display=swap');
+
+
+LINKS IMPORTANTES: 
+
+MSFLIX: https://maykonsilveira.com.br/
+
+MEU CANAL: https://www.youtube.com/c/MAYKONSILVEIRA
+
+INSTAGRAM: https://www.instagram.com/maykonsilveiramj/?hl=pt-br
+
+FACEBOOK: https://www.facebook.com/MaykonSilveiraMJ 
+

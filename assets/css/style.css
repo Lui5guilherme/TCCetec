@@ -142,7 +142,7 @@ row-gap: 2.1rem;
     min-height: 470px;
     margin-top: 5rem!important;
     align-items: center;
-    border-radius: 50%;
+    border-radius: 0.5rem;
 }
 
 .banner-img{
@@ -151,7 +151,7 @@ row-gap: 2.1rem;
     height: 100%;
     object-fit: cover;
     z-index: -1;
-    border-radius: 50%;
+    border-radius: 0.5rem;
 }
 .banner-texto{
     padding-left: 10px;
